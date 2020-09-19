@@ -1,0 +1,17 @@
+{{- $cdn := .Scratch.Get "cdn" | default dict -}}
+{{- $fingerprint := .Scratch.Get "fingerprint" -}}
+{{- $comment := .Scratch.Get "comment" | default dict -}}
+{{- $commentConfig := dict -}}
+
+{{- if $comment.enable -}}
+    <div id="comments">
+ 
+        {{- /* Telegram Comments System */ -}}
+        {{- $telegram := $comment.telegram | default dict -}}
+
+        <div id="telegram-comments" class="comment"></div>
+    <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="AatkodL9" data-limit="5" data-color="E22F38" data-colorful="1"></script>
+    <noscript>Please enable JavaScript to view the <a href="https://comments.app/">comments powered by Telegram Comments.</a></noscript>
+{{- end -}}
+
+{{- dict "comment" $commentConfig | dict "config" | merge (.Scratch.Get "this") | .Scratch.Set "this" -}}
