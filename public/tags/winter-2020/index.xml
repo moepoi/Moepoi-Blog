@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Winter 2020 - Tag - Moepoi&#39;s Blog</title>
+        <link>http://example.org/tags/winter-2020/</link>
+        <description>Winter 2020 - Tag - Moepoi&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>moe@chocola.dev (Moepoi)</managingEditor>
+            <webMaster>moe@chocola.dev (Moepoi)</webMaster><lastBuildDate>Fri, 24 Jan 2020 05:42:18 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/winter-2020/" rel="self" type="application/rss+xml" /><item>
+    <title>New Simulcast Yang Saya Tonton Di Winter 2020</title>
+    <link>http://example.org/2020/01/24/new-simulcast-yang-saya-tonton-di-winter-2020/</link>
+    <pubDate>Fri, 24 Jan 2020 05:42:18 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/2020/01/24/new-simulcast-yang-saya-tonton-di-winter-2020/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/featured/misaki-toaru.jpg" referrerpolicy="no-referrer">
+            </div>1. Toaru Kagaku no Railgun T  .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } Kota Akademi adalah kota yang sangat maju dalam bidang teknologi dan 80% dari 2,3 juta penduduknya adalah pelajar. Fokus utama dalam studi di kota ini untuk mempelajari kekuatan esper. Misaka Mikoto adalah salah satu esper level atas yang tinggal di kota ini bersama teman sekamarnya, Shirai Kuroko yang juga esper level atas dan merupakan anggota dari Judgement.]]></description>
+</item></channel>
+</rss>
