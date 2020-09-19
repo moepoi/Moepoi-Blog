@@ -1,4 +1,5 @@
-baseURL = "https://blog.moe.team/moepoi-blog/"
+# baseURL = "/"
+relativeURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
