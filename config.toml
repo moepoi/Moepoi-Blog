@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.moe.team/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -41,7 +41,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "A Personal Blog by Moepoi"
   # site keywords
   keywords = ["Moepoi", "Moe", "Anime"]
   # site default theme ("light", "dark", "auto")
