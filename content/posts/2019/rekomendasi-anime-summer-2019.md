@@ -47,20 +47,26 @@ Anime ini mengisahkan Bell Cranel (disuarakan oleh Yoshitsugu Matsuoka), seorang
 
 Tokyo dilanda teror oleh iblis yang membakar orang-orang. Dibentuklah tim pemadam kebakaran khusus. Kusakabe Shinra, seorang anak laki-laki yang memiliki kekuatan dapat berlari secepat roket. Ia bergabung dalam Pasukan Pemadam Kebakaran Khusus 8. Bisakah Pasukan Pemadam Kebakaran dapat menemukan sumber dari teror aneh ini dan menghentikannya? 
 
-#### 6. Maou-sama, Retry! <figure class="wp-block-image">
+#### 6. Maou-sama, Retry! 
 
-<img loading="lazy" width="1024" height="576" src="/img/content/2019/Screenshot_20190714-023650_MX_Player_Pro.png" alt="" class="wp-image-4372"></figure> 
+<div class="wp-block-image">
+  <figure class="aligncenter"><img loading="lazy" width="1024" height="576" src="/img/content/2019/Screenshot_20190714-023650_MX_Player_Pro.png" alt="" class="wp-image-4367"></figure>
+</div>
 
 Akira Oono merupakan seorang pria biasa yang bekerja di sebuah perusahaan yang mengelola game online. Ia sendiri sering bermain dengan nama karakter Maou (Raja Kegelapan). Suatu hari, ketika login, ia terseret ke dunia fantasi dan benar-benar menjadi Maou. Di sana ia bertemu dengan seorang gadis, dan memulai petualangan bersamanya. Namun, karena kekuatannya yang luar biasa, ia diincar banyak pihak dan sering membawa masalah&nbsp;ke mana pun ia pergi. 
 
-#### 7. Isekai Cheat Magician<figure class="wp-block-image">
+#### 7. Isekai Cheat Magician
 
-<img loading="lazy" width="1000" height="563" src="/img/content/2019/7013722_ext_col_03_og_6.jpg" alt="" class="wp-image-4373"></figure> 
+<div class="wp-block-image">
+  <figure class="aligncenter"><img loading="lazy" width="1024" height="576" src="/img/content/2019/7013722_ext_col_03_og_6.jpg" alt="" class="wp-image-4367"></figure>
+</div> 
 
 Siswa SMA biasa, Taichi Nishimura dan temannya, Rin tiba-tiba ditransfer ke dunia fantasi. Di dunia ini, Taichi dan Rin memiliki kemampuan fisik dan sihir yang luar biasa. Begitulah awal kisah keduanya dimulai&#8230; 
 
-#### 8. Nakanohito Genome<figure class="wp-block-image">
+#### 8. Nakanohito Genome
 
-<img loading="lazy" width="1024" height="576" src="/img/content/2019/hOqwhdlsyIE4A7MWfuxEcOaP19w.jpg" alt="" class="wp-image-4374"></figure> 
+<div class="wp-block-image">
+  <figure class="aligncenter"><img loading="lazy" width="1024" height="576" src="/img/content/2019/hOqwhdlsyIE4A7MWfuxEcOaP19w.jpg" alt="" class="wp-image-4367"></figure>
+</div>
 
 Setelah membuka konten tersembunyi dalam game Nakanohito Genome, Akatsuki Iride terlempar ke dunia game bersama dengan orang-orang lainnya yang menjadi timnya. Masing-masing dari mereka merupakan spesialis dalam game tertentu, seperti game pertarungan, game teka-teki, dan lain-lain. Setelah menyelesaikan level 1, seorang &#8220;pengajar&#8221; berkepala dingin mengumpulkan mereka dan menjelaskan bagaimana permainan akan berlanjut&#8230;
