@@ -396,7 +396,7 @@ theme = "LoveIt"
         outlined = false
       #  Commento comment config
       [params.page.comment.commento]
-        enable = true
+        enable = false
       #  Utterances comment config
       [params.page.comment.utterances]
         enable = false
@@ -469,7 +469,7 @@ theme = "LoveIt"
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
