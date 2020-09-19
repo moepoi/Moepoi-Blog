@@ -1,5 +1,5 @@
-# baseURL = "/moepoi-blog/"
-relativeURLs = true
+baseURL = "https://blog.moe.team/"
+# relativeURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -389,8 +389,8 @@ theme = "LoveIt"
         enable = true
         siteID = "AatkodL9"
         limit = 5
-        height = ""
-        color = ""
+        height = "600"
+        color = "343638"
         colorful = true
         dislikes = false
         outlined = false
