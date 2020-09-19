@@ -1,4 +1,4 @@
-# baseURL = "/"
+# baseURL = "/moepoi-blog/"
 relativeURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
