@@ -2,6 +2,8 @@
 title: "Cara Mengatasi Limit Pada File Google Drive"
 date: 2019-10-04T20:59:32+00:00
 draft: false
+toc:
+  enable: false
 tags: ["Tutorial", "Gdrive", "Bypass"]
 categories: ["Tutorial"]
 featuredImage: /img/featured/gdrive.jpg

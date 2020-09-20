@@ -270,9 +270,9 @@ theme = "LoveIt"
     #  Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = false
+      enable = true
       #  whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     #  KaTeX mathematical formulas

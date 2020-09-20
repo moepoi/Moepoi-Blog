@@ -2,6 +2,8 @@
 title: "Daftar Koleksi Anime"
 date: 2020-07-28T21:00:37+00:00
 draft: false
+toc:
+  enable: false
 tags: ["Anime", "Collection", "Telegram"]
 categories: ["Anime", "Collection"]
 featuredImage: /img/featured/enju-chan.jpg
