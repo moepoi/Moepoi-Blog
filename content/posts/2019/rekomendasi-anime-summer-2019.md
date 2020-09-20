@@ -4,7 +4,7 @@ date: 2019-09-05T18:54:59+00:00
 draft: false
 tags: ["Anime", "Rekomendasi", "Summer 2019"]
 categories: ["Anime", "Rekomendasi"]
-featuredImage: /img/featured/ao-chan.png
+featuredImagePreview: /img/featured/ao-chan.png
 ---
 
 #### 1. Arifureta Shokugyou de Sekai Saikyou 

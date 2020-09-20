@@ -4,7 +4,7 @@ date: 2019-09-15T07:02:37+00:00
 draft: false
 tags: ["Anime", "Rekomendasi", "Fall 2019"]
 categories: ["Anime", "Rekomendasi"]
-featuredImage: /img/featured/natsuki.png
+featuredImagePreview: /img/featured/natsuki.png
 ---
 
 #### 1. Nanatsu no Taizai: Kamigami no Gekirin

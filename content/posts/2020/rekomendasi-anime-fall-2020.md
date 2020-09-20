@@ -4,7 +4,7 @@ date: 2020-09-20T01:05:27+07:00
 draft: false
 tags: ["Anime", "Rekomendasi", "Fall 2020"]
 categories: ["Anime", "Rekomendasi"]
-featuredImage: /img/featured/wiene.png
+featuredImagePreview: /img/featured/wiene.png
 ---
 
 ## 1. Mahouka Koukou no Rettousei: Raihousha-hen

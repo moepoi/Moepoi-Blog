@@ -4,7 +4,7 @@ date: 2020-01-24T05:42:18+00:00
 draft: false
 tags: ["Anime", "Rekomendasi", "Winter 2020"]
 categories: ["Anime", "Rekomendasi"]
-featuredImage: /img/featured/misaki-toaru.jpg
+featuredImagePreview: /img/featured/misaki-toaru.jpg
 ---
 
 ## 1. Toaru Kagaku no Railgun T 

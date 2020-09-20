@@ -6,7 +6,7 @@ toc:
   enable: false
 tags: ["Tutorial", "Gdrive", "Bypass"]
 categories: ["Tutorial"]
-featuredImage: /img/featured/gdrive.jpg
+featuredImagePreview: /img/featured/gdrive.jpg
 ---
 
 <p class="has-medium-font-size">
