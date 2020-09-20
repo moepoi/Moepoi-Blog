@@ -1,5 +1,6 @@
 baseURL = "https://blog.moe.team/"
 # relativeURLs = true
+enableRobotsTXT = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
