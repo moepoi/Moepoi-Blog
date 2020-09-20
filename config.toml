@@ -118,7 +118,7 @@ theme = "LoveIt"
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = '<a href="//www.dmca.com/Protection/Status.aspx?ID=e75f784a-7e5a-4544-8988-47c04a69a89b" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w150-5x1-10.png?ID=e75f784a-7e5a-4544-8988-47c04a69a89b"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
