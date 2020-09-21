@@ -56,7 +56,7 @@ theme = "LoveIt"
   #  date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/img/profile/profile.jpg"]
+  images = ["/img/profile/profile.webp"]
 
   #  App icon config
   [params.app]
@@ -160,7 +160,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/img/profile/profile.jpg"
+      avatarURL = "/img/profile/profile.webp"
       #  title shown in home page (HTML format is supported)
       title = "Moe Poi ~"
       # subtitle shown in home page

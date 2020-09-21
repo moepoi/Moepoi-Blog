@@ -5,7 +5,7 @@ draft: false
 toc:
   enable: false
 categories: ["Important"]
-featuredImage: /img/featured/misaki-aokana.jpg
+featuredImage: /img/featured/misaki-aokana.webp
 ---
 
 First Launching 🙂

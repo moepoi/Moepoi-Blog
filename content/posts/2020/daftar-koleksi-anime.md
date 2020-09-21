@@ -6,7 +6,7 @@ toc:
   enable: false
 tags: ["Anime", "Collection", "Telegram"]
 categories: ["Anime", "Collection"]
-featuredImage: /img/featured/enju-chan.jpg
+featuredImage: /img/featured/enju-chan.webp
 ---
 
 <blockquote class="wp-block-quote has-text-align-center">
