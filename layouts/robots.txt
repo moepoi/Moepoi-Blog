@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /tags/*/
+Disallow: /categories/*/
+Disallow: /page/*/
+Disallow: /posts/
 Sitemap: https://blog.moe.team/sitemap.xml
