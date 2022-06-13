@@ -359,7 +359,7 @@ theme = "LoveIt"
         clientSecret = ""
       # Valine comment config
       [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = "utGD7nEzMeanceV8745zAgA8-MdYXbMMI"
         appKey = "FVBMhTpQKEI28bj3q0R8jdvl"
         placeholder = ""
@@ -387,7 +387,7 @@ theme = "LoveIt"
         languageCode = ""
       #  Telegram comments config
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "AatkodL9"
         limit = 5
         height = ""
