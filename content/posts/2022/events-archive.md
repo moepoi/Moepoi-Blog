@@ -4,8 +4,28 @@ date: 2022-10-24T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/yabaii-matsuri.webp
+featuredImagePreview: /img/content/2022/momiji-gari.webp
 ---
+
+## Momiji Gari
+<p align="center">
+  <img src="/img/content/2022/momiji-gari.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 28 - 30 October 2022
+<br>
+Location : [Senayan Park](https://www.google.com/maps/place/Senayan+Park/@-6.2122922,106.8031179,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f7dc1362f23b:0xc0ea4d9a9d1b2936!8m2!3d-6.2122975!4d106.8053066)
+{{< /admonition >}}
+
+## Halloween Costume Party
+<p align="center">
+  <img src="/img/content/2022/halloween-costume-party.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 29 October 2022
+<br>
+Location : [Emporium Pluit Mall](https://www.google.com/maps/place/Emporium+Pluit+Mall/@-6.1273829,106.7887942,17z/data=!3m2!4b1!5s0x2e6a1d8d9e8d249f:0x6110628b98ada1bd!4m5!3m4!1s0x2e6a1d8d0db9e06d:0x54cb9f1766bde458!8m2!3d-6.1273882!4d106.7909829)
+{{< /admonition >}}
 
 ## Yabaii Matsuri
 <p align="center">
