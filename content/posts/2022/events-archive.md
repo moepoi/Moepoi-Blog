@@ -4,8 +4,18 @@ date: 2022-10-24T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/momiji-gari.webp
+featuredImagePreview: /img/content/2022/isekai-wave.webp
 ---
+
+## Isekai Wave
+<p align="center">
+  <img src="/img/content/2022/isekai-wave.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 5 - 6 November 2022
+<br>
+Location : [Neo Soho Central Park](https://www.google.com/maps/place/Neo+Soho+Central+Park/@-6.1749577,106.7878247,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f65ee1c07a31:0x2c4c67f4d94e8e65!8m2!3d-6.174963!4d106.7900134)
+{{< /admonition >}}
 
 ## Momiji Gari
 <p align="center">
