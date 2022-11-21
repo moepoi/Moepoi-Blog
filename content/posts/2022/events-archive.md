@@ -1,11 +1,21 @@
 ---
 title: "Events Archive"
-date: 2022-10-24T10:00:00+07:00
+date: 2022-11-21T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/isekai-wave.webp
+featuredImagePreview: /img/content/2022/ani-one-festival.webp
 ---
+
+## Ani-One Festival
+<p align="center">
+  <img src="/img/content/2022/ani-one-festival.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 4 - 20 November 2022
+<br>
+Location : [Lippo Mall Puri](https://www.google.com/maps/place/Lippo+Mall+Puri/@-6.1872821,106.736946,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f76e37136e23:0x41cca4768f8bf65b!8m2!3d-6.1872874!4d106.7391347)
+{{< /admonition >}}
 
 ## Isekai Wave
 <p align="center">
