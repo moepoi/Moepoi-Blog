@@ -4,8 +4,18 @@ date: 2022-11-21T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/ani-one-festival.webp
+featuredImagePreview: /img/content/2022/aeonime.webp
 ---
+
+## AEONIME
+<p align="center">
+  <img src="/img/content/2022/aeonime.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 24 - 27 November 2022
+<br>
+Location : [AEON Mall Tanjung Barat](https://www.google.com/maps/place/AEON+Mall+Tanjung+Barat/@-6.3056304,106.8383453,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69ede2e950e735:0x5ce799145dbf8630!8m2!3d-6.3056357!4d106.840534)
+{{< /admonition >}}
 
 ## Ani-One Festival
 <p align="center">
