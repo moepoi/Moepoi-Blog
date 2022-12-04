@@ -4,8 +4,18 @@ date: 2022-11-21T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/aeonime.webp
+featuredImagePreview: /img/content/2022/mukashi.webp
 ---
+
+## Mukashi School Festival
+<p align="center">
+  <img src="/img/content/2022/mukashi.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 3 - 4 December 2022
+<br>
+Location : [Senayan Park](https://www.google.com/maps/place/Senayan+Park/@-6.2122922,106.8031179,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f7dc1362f23b:0xc0ea4d9a9d1b2936!8m2!3d-6.2122975!4d106.8053066)
+{{< /admonition >}}
 
 ## AEONIME
 <p align="center">
