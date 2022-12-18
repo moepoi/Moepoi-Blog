@@ -4,8 +4,18 @@ date: 2022-11-21T10:00:00+07:00
 draft: false
 tags: ["Events", "Anime", "Archive"]
 categories: ["Events"]
-featuredImagePreview: /img/content/2022/mukashi.webp
+featuredImagePreview: /img/content/2022/welcome-to-kasukabe-city.webp
 ---
+
+## Welcome to Kasukabe City
+<p align="center">
+  <img src="/img/content/2022/welcome-to-kasukabe-city.webp" width="500"/>
+</p>
+{{< admonition info "Details" true >}}
+Date : 18 - 19 December 2022
+<br>
+Location : [Mall Kota Kasablanka](https://www.google.com/maps/place/Mall+Kota+Kasablanka/@-6.2225397,106.8403318,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f38cbb506e1d:0x8535b0d7f68b1198!8m2!3d-6.222545!4d106.8425205)
+{{< /admonition >}}
 
 ## Mukashi School Festival
 <p align="center">
